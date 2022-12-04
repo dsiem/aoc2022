@@ -8,4 +8,4 @@ for i, items in enumerate(open(0)):
     if i % 3 == 2:
         part2 += abc.index(three.pop())
         three = {*abc}
-print(part1, part2)
+print(part1, part2)  # 7716 2956
