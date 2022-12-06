@@ -9,3 +9,4 @@ This repository contains my solutions for the [Advent of Code 2022](https://adve
 |[Day 3: Rucksack Reorganization](https://adventofcode.com/2022/day/3)|&#11088;|&#11088;|
 |[Day 4: Camp Cleanup](https://adventofcode.com/2022/day/4)|&#11088;|&#11088;|
 |[Day 5: Supply Stacks](https://adventofcode.com/2022/day/5)|&#11088;|&#11088;|
+|[Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6)|&#11088;|&#11088;|
