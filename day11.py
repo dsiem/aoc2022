@@ -33,4 +33,4 @@ def play(monkeys, rounds=10_000, div=1):
     return math.prod(sorted(m.num for m in monkeys)[-2:])
 
 monkeys = [*map(Monkey, open(0).read().split("\n\n"))]
-print(play(monkeys, 20, 3), play([m.reset() for m in monkeys]))  # 54253, 13119526120
+print(play(monkeys, 20, 3), play([m.reset() for m in monkeys]))  # 54253 13119526120
