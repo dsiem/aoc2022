@@ -17,3 +17,4 @@ This repository contains my solutions for the [Advent of Code 2022](https://adve
 |[Day 11: Monkey in the Middle](https://adventofcode.com/2022/day/11)|&#11088;|&#11088;|
 |[Day 12: Hill Climbing Algorithm](https://adventofcode.com/2022/day/12)|&#11088;|&#11088;|
 |[Day 13: Distress Signal](https://adventofcode.com/2022/day/13)|&#11088;|&#11088;|
+|[Day 14: Regolith Reservoir](https://adventofcode.com/2022/day/14)|&#11088;|&#11088;|
